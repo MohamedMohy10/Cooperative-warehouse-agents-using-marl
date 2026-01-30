@@ -1,0 +1,7 @@
+
+```text
+numpy
+torch
+pettingzoo
+gymnasium
+matplotlib
